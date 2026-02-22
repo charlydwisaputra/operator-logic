@@ -1,2 +1,2 @@
 link website 
-kelulusansiswalogic.infinityfreeapp.com
+https://www.kelulusansiswalogic.infinityfreeapp.com
